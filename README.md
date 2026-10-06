@@ -26,7 +26,7 @@ Currently working as an **SEO Executive at Cyber Infrastructure (CIS)** with 4+ 
 ![Development](https://skillicons.dev/icons?i=python,bash,git,ansible)
 
 ### Monitoring
-![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana) `AWS CloudWatch`
+![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)
 
 ---
 
